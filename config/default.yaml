@@ -1,0 +1,4 @@
+ReadTimeout: 10
+WriteTimeout: 10
+MaxheaderBytesShift: 1024
+Port: ":8080"
